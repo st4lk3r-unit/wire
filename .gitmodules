@@ -1,0 +1,3 @@
+[submodule "lib/konsole"]
+	path = lib/konsole
+	url = https://github.com/st4lk3r-unit/konsole.git
